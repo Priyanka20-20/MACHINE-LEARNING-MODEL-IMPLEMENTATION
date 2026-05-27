@@ -18,3 +18,8 @@ This project focuses on the implementation of a Machine Learning predictive mode
 Additional testing was also performed by manually providing different study hour values to the model. For example, when 2 study hours were provided, the model predicted “Fail”, while for 5 or more study hours, the model predicted “Pass”. This demonstrated how Machine Learning models can learn patterns from existing data and make intelligent predictions for new inputs. This project helped in understanding important Machine Learning concepts such as supervised learning, model training, prediction, and evaluation. It also provided practical experience with Scikit-learn and Jupyter Notebook. The knowledge gained from this task can be applied in real-world applications such as spam email detection, recommendation systems, disease prediction, and student performance analysis.
 
 Overall, this task successfully demonstrated the implementation and evaluation of a simple Machine Learning model using Python and Scikit-learn.
+# Output: 
+<img width="1160" height="931" alt="Image" src="https://github.com/user-attachments/assets/4cb40034-be97-4007-9f2d-aaf146505251" />
+<img width="1875" height="800" alt="Image" src="https://github.com/user-attachments/assets/102ebe7b-846a-490a-be1b-b402f9ae5e0b" />
+<img width="1436" height="705" alt="Image" src="https://github.com/user-attachments/assets/d562debb-eda5-498f-b36c-25965d13e91a" />
+<img width="1878" height="491" alt="Image" src="https://github.com/user-attachments/assets/7d458b21-2c3c-459f-b2aa-d1b2eb6b1fe7" />
